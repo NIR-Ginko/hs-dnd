@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Dice ( rollDice
             , d4
             , d6

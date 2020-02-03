@@ -1,6 +1,10 @@
 {- |
  - Module providing constructor for character/enemy
  -}
+
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Actor.Actor ( GameCharacter(..)
                    , genChar
                    )

@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Actor.Properties.Gender where
 
 data Gender = Unique

@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Actor.Properties.HitPoint (HitPoint, mkHitPoint) where
 
 data HitPoint = HitPoint Int

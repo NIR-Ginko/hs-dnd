@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Actor.Enemies.AdultBrassDragon (adultBrassDragon) where
 
 import Actor.Actor

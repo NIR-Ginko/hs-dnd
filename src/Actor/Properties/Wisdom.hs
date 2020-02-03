@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 {- |
  - Module providing smart constructor with boundary checks for Wisdom
  - character parameter

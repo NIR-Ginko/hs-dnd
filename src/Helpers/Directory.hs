@@ -2,6 +2,10 @@
  - IO facilities to build game objects out of human editable
  - files
  -}
+
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Helpers.Directory where
 
 import System.FilePath.Find

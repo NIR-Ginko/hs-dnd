@@ -1,3 +1,6 @@
+{-# LANGUAGE UnicodeSyntax #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 module Main where
 
 --import System.Random (getStdRandom, newStdGen, randomRIO, randomR, StdGen, RandomGen, getStdGen)
